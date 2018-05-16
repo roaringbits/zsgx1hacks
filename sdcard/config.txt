@@ -21,3 +21,8 @@ RESTORE=NO
 # Possibly causes some cameras to fail - use at your own risk
 
 VOICE=NO
+
+# Fixed IP
+
+ETHERNET_IP=NO
+WIFI_IP=NO
